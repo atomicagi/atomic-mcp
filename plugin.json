@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "atomic-agi",
+  "version": "1.0.0",
+  "description": "Connect AI agents to Atomic AGI for SEO keyword research, project data, content workflows, and AI search visibility. Includes an evidence-backed keyword research skill.",
+  "author": {
+    "name": "Atomic AGI",
+    "url": "https://www.atomicagi.com"
+  },
+  "homepage": "https://www.atomicagi.com",
+  "repository": "https://github.com/Atomic-AI-tool/atomic-agi-plugin",
+  "keywords": [
+    "seo",
+    "ai-search",
+    "keyword-research",
+    "content",
+    "mcp"
+  ]
+}
