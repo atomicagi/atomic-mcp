@@ -1,6 +1,10 @@
 # Atomic AGI
 
-[Atomic AGI](https://www.atomicagi.com) connects SEO research, content workflows, and AI search visibility in one workspace. This public plugin connects compatible AI agents to Atomic through MCP and includes the `atomic-keyword-research` skill.
+[Atomic AGI](https://www.atomicagi.com) is an SEO and AI search optimization platform spanning strategy, AI visibility tracking, brand reputation, content workflows, and technical audits, including Agent Experience (AX).
+
+Built by Omnius, a B2B SEO & AI search optimization (AEO/GEO) agency for SaaS, Fintech and AI.
+
+This public plugin connects compatible AI agents to Atomic through MCP and includes the `atomic-keyword-research` skill.
 
 ## Connect to Atomic
 

@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "atomic-agi",
   "version": "1.0.0",
-  "description": "Connect AI agents to Atomic AGI for SEO keyword research, project data, content workflows, and AI search visibility. Includes an evidence-backed keyword research skill.",
+  "description": "Atomic AGI is an SEO and AI search optimization platform spanning strategy, AI visibility tracking, brand reputation, content workflows, and technical audits, including Agent Experience (AX). Connect AI agents to your Atomic projects through MCP and use the included keyword research skill. Built by Omnius, a B2B SEO & AI search optimization (AEO/GEO) agency for SaaS, Fintech and AI.",
   "author": {
     "name": "Atomic AGI",
     "url": "https://www.atomicagi.com"
@@ -12,8 +12,14 @@
   "keywords": [
     "seo",
     "ai-search",
-    "keyword-research",
+    "aeo",
+    "geo",
+    "strategy",
+    "brand-reputation",
+    "technical-seo",
+    "agent-experience",
     "content",
+    "keyword-research",
     "mcp"
   ]
 }
