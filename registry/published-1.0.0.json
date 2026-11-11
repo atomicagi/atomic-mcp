@@ -1,0 +1,47 @@
+{
+  "server": {
+    "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+    "name": "com.atomicagi/mcp",
+    "description": "Agentic AI search marketing: analytics, strategy, reputation, AX and execution. Built by Omnius.",
+    "title": "Atomic AGI",
+    "version": "1.0.0",
+    "websiteUrl": "https://www.atomicagi.com",
+    "icons": [
+      {
+        "src": "https://raw.githubusercontent.com/Atomic-AI-tool/atomic-agi-plugin/main/assets/atomic-logo-white-background.png",
+        "mimeType": "image/png",
+        "sizes": [
+          "512x512"
+        ]
+      }
+    ],
+    "remotes": [
+      {
+        "type": "streamable-http",
+        "url": "https://app.atomicagi.com/api/mcp"
+      }
+    ],
+    "_meta": {
+      "io.modelcontextprotocol.registry/publisher-provided": {
+        "accessRequirements": "Atomic account and authorized project access. MCP tools require Starter or higher; individual capabilities depend on plan and permissions.",
+        "attribution": "Built by Omnius, a B2B SEO & AI search optimization (AEO/GEO) agency for SaaS, Fintech and AI.",
+        "authentication": [
+          "OAuth 2.1",
+          "Personal bearer token"
+        ],
+        "description": "Atomic AGI is an agentic marketing platform for AI search optimization. It brings together SEO and AI search analytics and visibility tracking, content and entity strategy, brand reputation analysis, and technical audits, including Agent Experience (AX). Turn insights into action through AI agents, content workflows, and MCP tools that connect AI assistants to your Atomic projects.",
+        "documentationUrl": "https://docs.atomicagi.com/settings/profile/mcp",
+        "integrationRepositoryUrl": "https://github.com/Atomic-AI-tool/atomic-agi-plugin"
+      }
+    }
+  },
+  "_meta": {
+    "io.modelcontextprotocol.registry/official": {
+      "status": "active",
+      "statusChangedAt": "2026-11-11T14:01:57.216275Z",
+      "publishedAt": "2026-11-11T14:01:57.216275Z",
+      "updatedAt": "2026-11-11T14:01:57.216275Z",
+      "isLatest": true
+    }
+  }
+}
