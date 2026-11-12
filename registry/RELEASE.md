@@ -15,3 +15,8 @@ The private signing key and publisher authentication files are outside this repo
 ## Repository rename metadata update — 2026-11-12
 
 Published and read back com.atomicagi/mcp@1.0.1. Repository is now https://github.com/Atomic-AI-tool/atomic-mcp; logo URL uses the new path. MCP identity and endpoint are unchanged. Version 1.0.0 above is historical. The public repository contains the integration package, not the hosted server implementation.
+
+
+## 1.0.2 - 2026-11-12
+
+Organization renamed to `atomicagi` (display name Atomic AGI). Repository and logo references now use https://github.com/atomicagi/atomic-mcp. Registry identity and MCP endpoint unchanged. Verified public record: https://registry.modelcontextprotocol.io/v0.1/servers/com.atomicagi%2Fmcp/versions/1.0.2
