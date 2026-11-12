@@ -3,7 +3,7 @@
   "name": "com.atomicagi/mcp",
   "title": "Atomic AGI",
   "description": "Agentic AI search marketing: analytics, strategy, reputation, AX and execution. Built by Omnius.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://www.atomicagi.com",
   "remotes": [
     {
@@ -16,7 +16,7 @@
       "description": "Atomic AGI is an agentic marketing platform for AI search optimization. It brings together SEO and AI search analytics and visibility tracking, content and entity strategy, brand reputation analysis, and technical audits, including Agent Experience (AX). Turn insights into action through AI agents, content workflows, and MCP tools that connect AI assistants to your Atomic projects.",
       "attribution": "Built by Omnius, a B2B SEO & AI search optimization (AEO/GEO) agency for SaaS, Fintech and AI.",
       "documentationUrl": "https://docs.atomicagi.com/settings/profile/mcp",
-      "integrationRepositoryUrl": "https://github.com/Atomic-AI-tool/atomic-agi-plugin",
+      "integrationRepositoryUrl": "https://github.com/Atomic-AI-tool/atomic-mcp",
       "authentication": [
         "OAuth 2.1",
         "Personal bearer token"
@@ -26,11 +26,15 @@
   },
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/Atomic-AI-tool/atomic-agi-plugin/main/assets/atomic-logo-white-background.png",
+      "src": "https://raw.githubusercontent.com/Atomic-AI-tool/atomic-mcp/main/assets/atomic-logo-white-background.png",
       "mimeType": "image/png",
       "sizes": [
         "512x512"
       ]
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/Atomic-AI-tool/atomic-mcp",
+    "source": "github"
+  }
 }
